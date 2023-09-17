@@ -14,5 +14,4 @@ Make a function that can register and login a user, using the database
 Usage:
 Via docker runnen en fmt.Scan (of andere manier) gebruiken om de username & password (masked input) op te vragen (PASOP: dit is lastig voor strings)
 
-GOOGLE GEBRUIKEN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 */
